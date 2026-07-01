@@ -78,14 +78,10 @@ Os algoritmos foram comparados utilizando as seguintes métricas:
 
 ```text
 📦 heart-failure-knn-random-forest
-├── 📂 data
-│   └── heart_failure_clinical_records_dataset.csv
-├── 📂 notebooks
-│   └── insuficiencia_cardiaca.ipynb
+├── 📄 heart_failure_clinical_records_dataset.csv
+├── 📓 insuficiencia_cardiaca.ipynb
 └── 📄 README.md
 ```
-
----
 
 ## 🚀 Como executar
 
