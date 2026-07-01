@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o projeto
 
-Este repositório contém a implementação desenvolvida para a disciplina de **Sistemas Inteligentes**, com o objetivo de comparar o desempenho dos algoritmos **K-Nearest Neighbors (KNN)** e **Random Forest** na predição de óbito em pacientes com insuficiência cardíaca.
+Este repositório contém a implementação desenvolvida para comparar o desempenho dos algoritmos **K-Nearest Neighbors (KNN)** e **Random Forest** na predição de óbito em pacientes com insuficiência cardíaca.
 
 Os modelos foram treinados utilizando dados clínicos e avaliados por diferentes métricas de classificação, permitindo analisar sua capacidade de identificar pacientes com maior risco de óbito.
 
